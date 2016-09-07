@@ -4,7 +4,7 @@ A completion script for swift
 
 ### Installation
 
-* best: use `brew tap joba64/formula`
+* best: use [`homebrew`](http:/http://brew.sh)
  * exec `brew tap joba64/formula`
  * exec `brew install swift-completion`
 * or just put in your bash-completion directory
@@ -13,4 +13,5 @@ A completion script for swift
 
 * swift package .....
 * swift build .....
+* swift test .....
 
