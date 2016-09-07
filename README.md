@@ -1,4 +1,14 @@
-# swift_bash-completion
+# bash completion for swift
 
-First try to write a bash-completions script
+A completion script for swift
+
+### Installation
+
+* best: use `brew tap joba64/formula`
++ or just put in your bash-completion directory
+
+### Supports
+
+swift package
+swift build
 
