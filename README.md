@@ -9,6 +9,6 @@ A completion script for swift
 
 ### Supports
 
-swift package
-swift build
+* swift package .....
+* swift build .....
 
